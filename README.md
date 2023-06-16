@@ -35,7 +35,6 @@
  ##
 </div>
 
-![Animação de cobra](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A0680&height=120&section=header"/>
 
